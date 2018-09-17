@@ -99,7 +99,7 @@ namespace Assignment
         public async void WriteFile()
         {
             StorageFolder storageFolder = ApplicationData.Current.LocalFolder;
-            StorageFile file1 = await storageFolder.CreateFileAsync("JSONFILE.json",
+            StorageFile file1 = await storageFolder.CreateFileAsync("DATAFILE.txt",
                 CreationCollisionOption.OpenIfExists);
 
             await FileIO.WriteTextAsync(file1, "DATA WITH JSON\r\n");

@@ -30242,11 +30242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tung\\Downloads\\Compressed\\Assignment-master\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "H:\\FPT\\Ki III\\UWP_ASM\\Assignment\\Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "C:\\Users\\Tung\\Downloads\\Compressed\\Assignment-master\\Assignment\\Assignment.csproj",
+      "projectPath": "H:\\FPT\\Ki III\\UWP_ASM\\Assignment\\Assignment.csproj",
       "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tung\\Downloads\\Compressed\\Assignment-master\\Assignment\\obj\\",
+      "outputPath": "H:\\FPT\\Ki III\\UWP_ASM\\Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

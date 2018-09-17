@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1204ec44-81f3-4207-b563-ac8b36dc2ef6</PackageIdentityName>
     <PackageIdentityPublisher>CN=tienb</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>H:\FPT\Ki III\UWP_ASM\Assignment\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Assignment.exe">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Assignment.exe">
       <PackagePath>entrypoint\Assignment.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tung\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -394,53 +394,53 @@
     <AppxPackagedFile Include="C:\Users\Tung\.nuget\packages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Assignment.xr.xml">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Assignment.xr.xml">
       <PackagePath>Assignment.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Core\Assignment.exe">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Core\Assignment.exe">
       <PackagePath>Assignment.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

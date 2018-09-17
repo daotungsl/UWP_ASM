@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1204ec44-81f3-4207-b563-ac8b36dc2ef6</PackageIdentityName>
     <PackageIdentityPublisher>CN=tienb</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>H:\FPT\Ki III\UWP_ASM\Assignment\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>1E3F1E40756B88C54CF898159A59743A55D14F7AC25442330D4DFD2E557DF020</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>1204ec44-81f3-4207-b563-ac8b36dc2ef6_1.0.0.0_x86__e4ntbfprrfm0g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>1204ec44-81f3-4207-b563-ac8b36dc2ef6_e4ntbfprrfm0g!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-17T01:33:34.874</Modified>
+      <Modified>2018-09-17T04:32:25.639</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Assignment.exe">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Assignment.exe">
       <PackagePath>entrypoint\Assignment.exe</PackagePath>
-      <Modified>2018-09-17T01:33:33.508</Modified>
+      <Modified>2018-09-17T04:32:24.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tung\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -527,68 +527,68 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T16:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-14T18:27:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Assignment.xr.xml">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Assignment.xr.xml">
       <PackagePath>Assignment.xr.xml</PackagePath>
       <Modified>2018-09-17T01:22:24.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-17T01:33:32.998</Modified>
+      <Modified>2018-09-17T04:32:23.748</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-17T01:33:32.998</Modified>
+      <Modified>2018-09-17T04:32:23.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-19T15:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-17T01:33:34.498</Modified>
+      <Modified>2018-09-17T04:32:25.320</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Tung\Downloads\Compressed\Assignment-master\Assignment\bin\x86\Debug\Core\Assignment.exe">
+    <AppxPackagedFile Include="H:\FPT\Ki III\UWP_ASM\Assignment\bin\x86\Debug\Core\Assignment.exe">
       <PackagePath>Assignment.exe</PackagePath>
-      <Modified>2018-09-17T01:33:34.867</Modified>
+      <Modified>2018-09-17T04:32:25.631</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
