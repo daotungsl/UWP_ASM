@@ -1,1 +1,1 @@
-H:\FPT\Ki III\UWP_ASM\Assignment\Assignment.csproj;x86
+E:\Documents\Visual Studio 2017\Projects\Assignment\Assignment\Assignment.csproj;x86
